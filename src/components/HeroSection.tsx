@@ -94,7 +94,7 @@ const HeroSection = () => (
               Register Now
             </Button>
           </a>
-          <a href="#cfp">
+          <a href="https://onegrasp.com/conference-events/international-conference-on-digital-economy-blockchain-innovations/">
             <Button
               size="lg"
               variant="outline"
