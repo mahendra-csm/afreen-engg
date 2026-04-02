@@ -43,7 +43,7 @@ const CallForPapers = () => (
               </div>
             ))}
           </div>
-          <a href="#register">
+          <a href="https://onegrasp.com/conference-events/international-conference-on-digital-economy-blockchain-innovations/">
             <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 shadow-glow font-semibold">
               Submit Your Abstract
             </Button>
