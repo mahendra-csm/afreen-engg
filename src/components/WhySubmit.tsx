@@ -36,7 +36,7 @@ const WhySubmit = () => (
           </motion.div>
         ))}
       </div>
-      <a href="#register">
+      <a href="https://onegrasp.com/conference-events/international-conference-on-digital-economy-blockchain-innovations/">
         <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 shadow-gold font-semibold text-lg px-8">
           Submit Abstract Now
         </Button>
